@@ -6,21 +6,18 @@ const services = [
     icon: Zap,
     title: "Express Delivery",
     description: "Urgent deliveries within 2 hours across Nairobi CBD and surrounding areas.",
-    price: "From KES 300",
     features: ["2-hour delivery", "Real-time tracking", "Priority handling"],
   },
   {
     icon: Clock,
     title: "Same-Day Delivery",
     description: "Reliable same-day service for packages across all Nairobi neighborhoods.",
-    price: "From KES 200",
     features: ["Same-day guarantee", "Flexible pickup", "SMS notifications"],
   },
   {
     icon: Calendar,
     title: "Scheduled Delivery",
     description: "Plan ahead with our scheduled delivery service for your convenience.",
-    price: "From KES 150",
     features: ["Choose your time", "Bulk discounts", "Recurring options"],
   },
 ];
@@ -49,19 +46,14 @@ export function Services() {
                 <CardDescription>{service.description}</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="space-y-3">
-                  <div className="text-2xl font-bold font-mono text-primary">
-                    {service.price}
-                  </div>
-                  <ul className="space-y-2">
-                    {service.features.map((feature, idx) => (
-                      <li key={idx} className="text-sm text-muted-foreground flex items-center gap-2">
-                        <div className="h-1.5 w-1.5 rounded-full bg-chart-2" />
-                        {feature}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
+                <ul className="space-y-2">
+                  {service.features.map((feature, idx) => (
+                    <li key={idx} className="text-sm text-muted-foreground flex items-center gap-2">
+                      <div className="h-1.5 w-1.5 rounded-full bg-chart-2" />
+                      {feature}
+                    </li>
+                  ))}
+                </ul>
               </CardContent>
             </Card>
           ))}
