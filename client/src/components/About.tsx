@@ -8,7 +8,7 @@ export function About() {
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
-            About Swift Logistics
+            About Swift Link Courier
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
             Built on the vision of making logistics accessible to everyone in Nairobi
@@ -27,9 +27,9 @@ export function About() {
           <div className="space-y-6">
             <h3 className="text-2xl md:text-3xl font-bold">Our Story</h3>
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Swift Logistics was born from a simple observation: Nairobi's vibrant economy needed 
+              Swift Link Courier was born from a simple observation: Nairobi's vibrant economy needed 
               faster, more reliable delivery solutions. Starting with a small fleet of motorcycles, 
-              we set out to provide affordable, professional logistics services to businesses and 
+              we set out to provide affordable, professional courier services to businesses and 
               individuals across the city.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground">

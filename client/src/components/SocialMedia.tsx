@@ -5,25 +5,25 @@ const socialLinks = [
   {
     name: "Facebook",
     icon: SiFacebook,
-    url: "https://facebook.com/swiftlogisticske",
+    url: "https://facebook.com/swiftlinkcourier",
     color: "hover:text-[#1877F2]",
   },
   {
     name: "Instagram",
     icon: SiInstagram,
-    url: "https://instagram.com/swiftlogistics_ke",
+    url: "https://instagram.com/swiftlinkcourier",
     color: "hover:text-[#E4405F]",
   },
   {
     name: "X",
     icon: SiX,
-    url: "https://twitter.com/SwiftLogisticsKE",
+    url: "https://twitter.com/SwiftLinkCourier",
     color: "hover:text-[#000000] dark:hover:text-[#FFFFFF]",
   },
   {
     name: "TikTok",
     icon: SiTiktok,
-    url: "https://tiktok.com/@swiftlogisticske",
+    url: "https://tiktok.com/@swiftlinkcourier",
     color: "hover:text-[#000000] dark:hover:text-[#FFFFFF]",
   },
   {

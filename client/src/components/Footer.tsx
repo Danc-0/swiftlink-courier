@@ -32,10 +32,10 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <div className="text-2xl font-bold text-primary mb-4">
-              Swift<span className="text-chart-2">Logistics</span>
+              Swift<span className="text-chart-2">Link</span> Courier
             </div>
             <p className="text-muted-foreground mb-4">
-              Fast, reliable logistics solutions across Nairobi and beyond. 
+              Fast, reliable courier solutions across Nairobi and beyond. 
               Building Kenya's delivery future.
             </p>
             <div className="flex gap-3">
@@ -138,7 +138,7 @@ export function Footer() {
         </div>
         
         <div className="border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>© 2025 Swift Logistics. Built with pride in Nairobi, Kenya.</p>
+          <p>© 2025 Swift Link Courier. Built with pride in Nairobi, Kenya.</p>
         </div>
       </div>
     </footer>

@@ -1,8 +1,8 @@
-# Swift Logistics Nairobi - Delivery Platform
+# Swift Link Courier - Delivery Platform
 
 ## Overview
 
-Swift Logistics is a modern logistics and delivery platform for Nairobi, Kenya. The application provides a customer-facing website showcasing delivery services, fleet information, coverage areas, and contact options. Built as a full-stack web application with a focus on mobile-first design and user engagement through multiple channels (WhatsApp, social media, contact forms).
+Swift Link Courier is a modern courier and delivery platform for Nairobi, Kenya. The application provides a customer-facing website showcasing delivery services, fleet information, coverage areas, and contact options. Built as a full-stack web application with a focus on mobile-first design and user engagement through multiple channels (WhatsApp, social media, contact forms).
 
 ## User Preferences
 

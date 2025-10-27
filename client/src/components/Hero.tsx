@@ -31,7 +31,7 @@ export function Hero() {
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
           Fast & Reliable
           <br />
-          <span className="text-primary">Logistics Solutions</span>
+          <span className="text-primary">Courier Solutions</span>
           <br />
           Across Nairobi
         </h1>

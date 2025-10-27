@@ -24,7 +24,7 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="text-2xl font-bold text-primary">
-              Swift<span className="text-chart-2">Logistics</span>
+              Swift<span className="text-chart-2">Link</span> Courier
             </div>
           </div>
 
