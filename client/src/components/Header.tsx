@@ -15,7 +15,7 @@ export function Header() {
   };
 
   const handleWhatsApp = () => {
-    window.open("https://wa.me/254700000000?text=Hello! I'd like to inquire about your delivery services.", "_blank");
+    window.open("https://wa.me/254732336718?text=Hello! I'd like to inquire about your delivery services.", "_blank");
   };
 
   return (
@@ -63,7 +63,7 @@ export function Header() {
             <ThemeToggle />
             <Button
               onClick={handleWhatsApp}
-              className="hidden md:flex gap-2"
+              className="hidden md:flex gap-2 bg-[#25D366] hover:bg-[#1DA851] text-white"
               data-testid="button-whatsapp-header"
             >
               <MessageCircle className="h-4 w-4" />

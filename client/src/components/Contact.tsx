@@ -165,8 +165,8 @@ export function Contact() {
                   </div>
                   <div>
                     <h3 className="font-bold mb-1">Call Us</h3>
-                    <a href="tel:+254700000000" className="text-muted-foreground hover:text-primary" data-testid="link-phone">
-                      +254 700 000 000
+                    <a href="tel:+254732336718" className="text-muted-foreground hover:text-primary" data-testid="link-phone">
+                      +254 732 336718
                     </a>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ export function Contact() {
                   <div>
                     <h3 className="font-bold mb-1">Visit Us</h3>
                     <p className="text-muted-foreground">
-                      Westlands Office Park<br />
+                      Embakasi East HQ Office<br />
                       Nairobi, Kenya
                     </p>
                   </div>

@@ -5,7 +5,7 @@ import heroImage from "@assets/generated_images/Nairobi_motorcycle_courier_hero_
 
 export function Hero() {
   const handleWhatsApp = () => {
-    window.open("https://wa.me/254700000000?text=Hello! I'd like to get a quote for delivery services.", "_blank");
+    window.open("https://wa.me/+254732336718?text=Hello! I'd like to get a quote for delivery services.", "_blank");
   };
 
   const scrollToContact = () => {
@@ -25,7 +25,7 @@ export function Hero() {
       
       <div className="relative z-10 max-w-7xl mx-auto px-6 py-32 text-center md:text-left">
         <Badge className="mb-6 text-sm font-mono" data-testid="badge-deliveries">
-          500+ Deliveries Completed
+          1200+ Deliveries Completed
         </Badge>
         
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
@@ -39,6 +39,7 @@ export function Hero() {
         <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl leading-relaxed">
           From same-day deliveries to scheduled logistics, we provide professional 
           courier services that keep your business moving. Starting with motorcycles, 
+          for faster and quick escape of traffic, and
           growing to serve all your delivery needs.
         </p>
         

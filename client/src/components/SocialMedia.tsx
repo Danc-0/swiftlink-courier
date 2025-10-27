@@ -29,7 +29,7 @@ const socialLinks = [
   {
     name: "WhatsApp",
     icon: SiWhatsapp,
-    url: "https://wa.me/254700000000",
+    url: "https://wa.me/254732336718",
     color: "hover:text-[#25D366]",
   },
 ];
