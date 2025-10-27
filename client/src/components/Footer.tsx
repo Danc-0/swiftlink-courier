@@ -36,7 +36,7 @@ export function Footer() {
             </div>
             <p className="text-muted-foreground mb-4">
               Fast, reliable logistics solutions across Nairobi and beyond. 
-              Building Kenya's delivery future.
+              Building Kenya's Comprehensive Logistics Solutions.
             </p>
             <div className="flex gap-3">
               <Button
@@ -124,7 +124,7 @@ export function Footer() {
             <form onSubmit={handleNewsletterSubmit} className="flex gap-2">
               <Input
                 type="email"
-                placeholder="your@email.com"
+                placeholder="johdanc2315@gmail.com"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
@@ -138,7 +138,7 @@ export function Footer() {
         </div>
         
         <div className="border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>© 2025 Swift Logistics. Built with pride in Nairobi, Kenya.</p>
+          <p>© 2025 Swift Logistics. Nairobi, Kenya.</p>
         </div>
       </div>
     </footer>

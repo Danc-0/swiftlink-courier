@@ -10,7 +10,10 @@ const activeZones = [
   "Embakasi", "Donholm", "Buruburu", "Umoja",
   "Kayole", "Dandora", "Githurai", "Kahawa",
   "Zimmerman", "Muthaiga", "Spring Valley", "Ridgeways",
-  "Runda", "Gigiri", "Rosslyn", "Chiromo"
+  "Runda", "Gigiri", "Rosslyn", "Chiromo", "Mlolongo", "Syokimau",
+  "Athi River", "Thika Road Mall (TRM)", "Juja", "Kiambu", "Thika", 
+  "Limuru", "Ruai", "Koma Rock", "Mavoko", "Kajiado", "Ngong", 
+  "Ongata Rongai", "Kitengela", "Machakos", "Mombasa Road", "JKIA/Wilson Airport"
 ];
 
 export function Coverage() {
@@ -22,7 +25,7 @@ export function Coverage() {
             Coverage Area
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Serving neighborhoods across Nairobi with reliable delivery services
+            Serving neighborhoods across Nairobi and it's environs with reliable delivery services
           </p>
         </div>
         
